@@ -85,7 +85,7 @@ const pair = await getRate('USD', 'MMK', { apiKey: 'art_live_...' });
 {
   bank: 'cbm',
   name: 'Central Bank of Myanmar',
-  rate_date: '2026-09-25',   // Central Bank of Myanmar's own publication date
+  rate_date: '2026-10-06',   // Central Bank of Myanmar's own publication date
   source: 'USD',
   target: 'MMK',
   rate: 2100,
@@ -113,7 +113,7 @@ console.log(table.rate_date, table.rates.length);
 {
   bank: 'cbm',
   name: 'Central Bank of Myanmar',
-  rate_date: '2026-09-25',
+  rate_date: '2026-10-06',
   rates: [
     { "base": "USD", "quote": "MMK", "type": "reference", "value": 2100 },
     // … the rest of the published table (38 currencies vs MMK)
@@ -155,7 +155,7 @@ Paid plans. One resolved rate per publication date — ready for charting, reval
 import { getHistory } from 'cbm-exchange-rate';
 
 const series = await getHistory(
-  { source: 'USD', target: 'MMK', from: '2026-01-01', to: '2026-09-25' },
+  { source: 'USD', target: 'MMK', from: '2026-01-01', to: '2026-10-06' },
   { apiKey: 'art_live_...' }
 );
 ```
@@ -168,11 +168,11 @@ const series = await getHistory(
   source: 'USD',
   target: 'MMK',
   from: '2026-01-01',
-  to: '2026-09-25',
+  to: '2026-10-06',
   count: 152,
   rates: [
     // one entry per publication date
-    { date: '2026-09-25', rate: 2100, rate_type: 'reference', derived: false, method: 'published' },
+    { date: '2026-10-06', rate: 2100, rate_type: 'reference', derived: false, method: 'published' },
     // …
   ],
   disclaimer: '…'
