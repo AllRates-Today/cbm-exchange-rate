@@ -40,48 +40,48 @@ The open endpoint serves the *latest* table only and asks for a visible attribut
 Today's full Central Bank of Myanmar table, straight from the central bank's latest publication. On GitHub it is refreshed by [a daily Action](.github/workflows/daily-table.yml) that reads the keyless endpoint above and commits only when the central bank publishes a new table; the copy on npm is as of the package's publish date.
 
 <!-- daily-table:start -->
-Published **2026-10-08** by Central Bank of Myanmar — 38 rates. Updated 2026-10-08.
+Published **2026-10-09** by Central Bank of Myanmar — 38 rates. Updated 2026-10-09.
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| AUD | MMK | reference | 1460.55 |
+| AUD | MMK | reference | 1465.17 |
 | BDT | MMK | reference | 17.03 |
-| BND | MMK | reference | 1638.64 |
-| BRL | MMK | reference | 418.21 |
-| CAD | MMK | reference | 1472.91 |
-| CHF | MMK | reference | 2518.59 |
-| CNY | MMK | reference | 313.37 |
-| CZK | MMK | reference | 96.28 |
-| DKK | MMK | reference | 314.42 |
+| BND | MMK | reference | 1640.63 |
+| BRL | MMK | reference | 418.42 |
+| CAD | MMK | reference | 1476.01 |
+| CHF | MMK | reference | 2526.32 |
+| CNY | MMK | reference | 313.79 |
+| CZK | MMK | reference | 96.76 |
+| DKK | MMK | reference | 315.28 |
 | EGP | MMK | reference | 40.1 |
-| EUR | MMK | reference | 2350.01 |
-| GBP | MMK | reference | 2771.37 |
-| HKD | MMK | reference | 267.61 |
+| EUR | MMK | reference | 2356.83 |
+| GBP | MMK | reference | 2780.3 |
+| HKD | MMK | reference | 267.6 |
 | IDR | MMK | reference | 0.1174 |
-| ILS | MMK | reference | 683.26 |
+| ILS | MMK | reference | 687.6 |
 | INR | MMK | reference | 21.7 |
-| JPY | MMK | reference | 13.2714 |
+| JPY | MMK | reference | 13.2777 |
 | KES | MMK | reference | 16.17 |
-| KHR | MMK | reference | 0.516 |
-| KRW | MMK | reference | 1.5637 |
+| KHR | MMK | reference | 0.5172 |
+| KRW | MMK | reference | 1.565 |
 | KWD | MMK | reference | 6814.86 |
-| LAK | MMK | reference | 0.0934 |
+| LAK | MMK | reference | 0.0936 |
 | LKR | MMK | reference | 6.35 |
-| MYR | MMK | reference | 513.45 |
-| NOK | MMK | reference | 219.57 |
+| MYR | MMK | reference | 513.95 |
+| NOK | MMK | reference | 219.5 |
 | NPR | MMK | reference | 13.56 |
-| NZD | MMK | reference | 1174.64 |
-| PHP | MMK | reference | 33.36 |
+| NZD | MMK | reference | 1178.1 |
+| PHP | MMK | reference | 33.43 |
 | PKR | MMK | reference | 7.58 |
-| RSD | MMK | reference | 20.02 |
-| RUB | MMK | reference | 24.52 |
-| SAR | MMK | reference | 559.37 |
-| SEK | MMK | reference | 209.92 |
-| SGD | MMK | reference | 1638.64 |
-| THB | MMK | reference | 62.38 |
+| RSD | MMK | reference | 20.08 |
+| RUB | MMK | reference | 24.77 |
+| SAR | MMK | reference | 559.36 |
+| SEK | MMK | reference | 210.9 |
+| SGD | MMK | reference | 1640.63 |
+| THB | MMK | reference | 62.64 |
 | USD | MMK | reference | 2100 |
-| VND | MMK | reference | 0.081 |
-| ZAR | MMK | reference | 126.11 |
+| VND | MMK | reference | 0.0811 |
+| ZAR | MMK | reference | 126.96 |
 
 Source: [Official rates published by CBM, served by AllRatesToday](https://allratestoday.com/central-bank-rates-api/cbm/). Rates are as printed by the central bank; AllRatesToday is not affiliated with it.
 <!-- daily-table:end -->
