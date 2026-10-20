@@ -20,6 +20,10 @@
 
 > **Official rate, not mid-market:** every value here is a number Central Bank of Myanmar itself published, fixed once printed and carrying the central bank's own `rate_date` — what filings and audits require. Need the live mid-market rate for pricing or display instead? Use the [mid-market API](https://allratestoday.com/docs/) or [`@allratestoday/sdk`](https://www.npmjs.com/package/@allratestoday/sdk). The two can diverge by several percent.
 
+## 🔑 Get your API key
+
+Get a free API key at [allratestoday.com/register](https://allratestoday.com/register) — no credit card required. Latest rates are on every plan, including free.
+
 ## ⚡ Try it without a key
 
 The latest Central Bank of Myanmar table is also served keyless, CORS-open and edge-cached, for evaluation, embeds and AI agents:
@@ -43,57 +47,53 @@ The image is rendered live from the keyless endpoint above, so it follows the ce
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-10-19 by Central Bank of Myanmar — 38 rates. Updated 2026-10-19.</summary>
+<summary>Table as text: published 2026-10-20 by Central Bank of Myanmar — 38 rates. Updated 2026-10-20.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| AUD | MMK | reference | 1463.91 |
+| AUD | MMK | reference | 1469.69 |
 | BDT | MMK | reference | 16.98 |
-| BND | MMK | reference | 1641.14 |
-| BRL | MMK | reference | 414.62 |
-| CAD | MMK | reference | 1489.47 |
-| CHF | MMK | reference | 2547.31 |
-| CNY | MMK | reference | 314.31 |
-| CZK | MMK | reference | 96.64 |
-| DKK | MMK | reference | 314.55 |
-| EGP | MMK | reference | 39.23 |
-| EUR | MMK | reference | 2351.27 |
-| GBP | MMK | reference | 2795.94 |
-| HKD | MMK | reference | 267.59 |
-| IDR | MMK | reference | 0.1164 |
-| ILS | MMK | reference | 675.14 |
+| BND | MMK | reference | 1642.87 |
+| BRL | MMK | reference | 416.94 |
+| CAD | MMK | reference | 1494.08 |
+| CHF | MMK | reference | 2546.84 |
+| CNY | MMK | reference | 314.42 |
+| CZK | MMK | reference | 97 |
+| DKK | MMK | reference | 315.56 |
+| EGP | MMK | reference | 38.65 |
+| EUR | MMK | reference | 2358.72 |
+| GBP | MMK | reference | 2804.76 |
+| HKD | MMK | reference | 267.57 |
+| IDR | MMK | reference | 0.1168 |
+| ILS | MMK | reference | 677.48 |
 | INR | MMK | reference | 22.12 |
-| JPY | MMK | reference | 13.2815 |
+| JPY | MMK | reference | 13.2785 |
 | KES | MMK | reference | 16.17 |
-| KHR | MMK | reference | 0.5153 |
-| KRW | MMK | reference | 1.576 |
+| KHR | MMK | reference | 0.5164 |
+| KRW | MMK | reference | 1.5824 |
 | KWD | MMK | reference | 6818.18 |
 | LAK | MMK | reference | 0.0933 |
-| LKR | MMK | reference | 6.34 |
-| MYR | MMK | reference | 514.45 |
-| NOK | MMK | reference | 222.55 |
+| LKR | MMK | reference | 6.33 |
+| MYR | MMK | reference | 514.26 |
+| NOK | MMK | reference | 223.7 |
 | NPR | MMK | reference | 13.83 |
-| NZD | MMK | reference | 1187.55 |
+| NZD | MMK | reference | 1194.27 |
 | PHP | MMK | reference | 33.3 |
 | PKR | MMK | reference | 7.59 |
-| RSD | MMK | reference | 20.03 |
-| RUB | MMK | reference | 25.3 |
-| SAR | MMK | reference | 559.63 |
-| SEK | MMK | reference | 211.38 |
-| SGD | MMK | reference | 1641.14 |
-| THB | MMK | reference | 62.53 |
+| RSD | MMK | reference | 20.08 |
+| RUB | MMK | reference | 25.4 |
+| SAR | MMK | reference | 559.85 |
+| SEK | MMK | reference | 212.14 |
+| SGD | MMK | reference | 1642.87 |
+| THB | MMK | reference | 62.48 |
 | USD | MMK | reference | 2100 |
-| VND | MMK | reference | 0.0811 |
-| ZAR | MMK | reference | 127.34 |
+| VND | MMK | reference | 0.0812 |
+| ZAR | MMK | reference | 127.91 |
 
 </details>
 
 Source: [Official rates published by CBM, served by AllRatesToday](https://allratestoday.com/central-bank-rates-api/cbm/). Rates are as printed by the central bank; AllRatesToday is not affiliated with it.
 <!-- daily-table:end -->
-
-## 🔑 Get your API key
-
-Get a free API key at [allratestoday.com/register](https://allratestoday.com/register) — no credit card required. Latest rates are on every plan, including free.
 
 ## 📦 Installation
 
