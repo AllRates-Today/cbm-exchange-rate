@@ -37,7 +37,7 @@ const r = await fetch('https://allratestoday.com/api/open/central-bank/cbm').the
 console.log(r.rate_date, r.rates.length); // the central bank's latest published table, no key
 ```
 
-The open endpoint serves the *latest* table only (JSON by default; add `?format=csv`, `xml` or `xlsx` for a file) and asks for a visible attribution link. The client below uses the keyed API, which adds point-in-time tables and history.
+The open endpoint serves the *latest* table only (JSON by default; add `?format=csv`, `xml` or `xlsx` for a file) and is free to use with a visible, followable link where the rates are shown: `<a href="https://allratestoday.com">Exchange rates by AllRatesToday</a>` (terms: <https://allratestoday.com/terms/#attribution>). The client below uses the keyed API, which adds point-in-time tables and history; with a key the link is appreciated, not required.
 
 ## 📈 Latest published table
 
@@ -47,48 +47,48 @@ The image is rendered live from the keyless endpoint above, so it follows the ce
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-10-20 by Central Bank of Myanmar — 38 rates. Updated 2026-10-20.</summary>
+<summary>Table as text: published 2026-10-21 by Central Bank of Myanmar — 38 rates. Updated 2026-10-21.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| AUD | MMK | reference | 1469.69 |
+| AUD | MMK | reference | 1475.46 |
 | BDT | MMK | reference | 16.98 |
-| BND | MMK | reference | 1642.87 |
-| BRL | MMK | reference | 416.94 |
-| CAD | MMK | reference | 1494.08 |
-| CHF | MMK | reference | 2546.84 |
-| CNY | MMK | reference | 314.42 |
-| CZK | MMK | reference | 97 |
-| DKK | MMK | reference | 315.56 |
-| EGP | MMK | reference | 38.65 |
-| EUR | MMK | reference | 2358.72 |
-| GBP | MMK | reference | 2804.76 |
-| HKD | MMK | reference | 267.57 |
-| IDR | MMK | reference | 0.1168 |
-| ILS | MMK | reference | 677.48 |
-| INR | MMK | reference | 22.12 |
-| JPY | MMK | reference | 13.2785 |
-| KES | MMK | reference | 16.17 |
-| KHR | MMK | reference | 0.5164 |
-| KRW | MMK | reference | 1.5824 |
+| BND | MMK | reference | 1643.45 |
+| BRL | MMK | reference | 417.62 |
+| CAD | MMK | reference | 1493.97 |
+| CHF | MMK | reference | 2545.61 |
+| CNY | MMK | reference | 314.48 |
+| CZK | MMK | reference | 96.99 |
+| DKK | MMK | reference | 315.23 |
+| EGP | MMK | reference | 38.75 |
+| EUR | MMK | reference | 2356.2 |
+| GBP | MMK | reference | 2811.27 |
+| HKD | MMK | reference | 267.62 |
+| IDR | MMK | reference | 0.1166 |
+| ILS | MMK | reference | 679.41 |
+| INR | MMK | reference | 22.19 |
+| JPY | MMK | reference | 13.279 |
+| KES | MMK | reference | 16.16 |
+| KHR | MMK | reference | 0.5165 |
+| KRW | MMK | reference | 1.5864 |
 | KWD | MMK | reference | 6818.18 |
 | LAK | MMK | reference | 0.0933 |
 | LKR | MMK | reference | 6.33 |
-| MYR | MMK | reference | 514.26 |
-| NOK | MMK | reference | 223.7 |
-| NPR | MMK | reference | 13.83 |
-| NZD | MMK | reference | 1194.27 |
-| PHP | MMK | reference | 33.3 |
+| MYR | MMK | reference | 514.64 |
+| NOK | MMK | reference | 223.76 |
+| NPR | MMK | reference | 13.87 |
+| NZD | MMK | reference | 1194.48 |
+| PHP | MMK | reference | 33.14 |
 | PKR | MMK | reference | 7.59 |
-| RSD | MMK | reference | 20.08 |
-| RUB | MMK | reference | 25.4 |
-| SAR | MMK | reference | 559.85 |
-| SEK | MMK | reference | 212.14 |
-| SGD | MMK | reference | 1642.87 |
-| THB | MMK | reference | 62.48 |
+| RSD | MMK | reference | 20.07 |
+| RUB | MMK | reference | 25.54 |
+| SAR | MMK | reference | 559.8 |
+| SEK | MMK | reference | 211.97 |
+| SGD | MMK | reference | 1643.45 |
+| THB | MMK | reference | 62.44 |
 | USD | MMK | reference | 2100 |
 | VND | MMK | reference | 0.0812 |
-| ZAR | MMK | reference | 127.91 |
+| ZAR | MMK | reference | 127.96 |
 
 </details>
 
