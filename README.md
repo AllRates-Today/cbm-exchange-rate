@@ -32,48 +32,48 @@ The image is rendered live from the keyless endpoint, so it follows the central 
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-11-09 by Central Bank of Myanmar — 38 rates. Updated 2026-11-09.</summary>
+<summary>Table as text: published 2026-11-10 by Central Bank of Myanmar — 38 rates. Updated 2026-11-10.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| AUD | MMK | reference | 1448.37 |
-| BDT | MMK | reference | 16.91 |
-| BND | MMK | reference | 1640.43 |
-| BRL | MMK | reference | 381.26 |
-| CAD | MMK | reference | 1490.95 |
-| CHF | MMK | reference | 2566.14 |
-| CNY | MMK | reference | 314.69 |
-| CZK | MMK | reference | 96.5 |
-| DKK | MMK | reference | 314.29 |
-| EGP | MMK | reference | 38.78 |
-| EUR | MMK | reference | 2349.38 |
-| GBP | MMK | reference | 2816.21 |
-| HKD | MMK | reference | 267.79 |
-| IDR | MMK | reference | 0.1162 |
-| ILS | MMK | reference | 660.67 |
-| INR | MMK | reference | 22.35 |
-| JPY | MMK | reference | 13.2895 |
-| KES | MMK | reference | 16.17 |
-| KHR | MMK | reference | 0.5146 |
-| KRW | MMK | reference | 1.5549 |
-| KWD | MMK | reference | 6812.65 |
+| AUD | MMK | reference | 1454.36 |
+| BDT | MMK | reference | 16.84 |
+| BND | MMK | reference | 1644.67 |
+| BRL | MMK | reference | 381.03 |
+| CAD | MMK | reference | 1487.57 |
+| CHF | MMK | reference | 2565.04 |
+| CNY | MMK | reference | 314.97 |
+| CZK | MMK | reference | 97.05 |
+| DKK | MMK | reference | 316.02 |
+| EGP | MMK | reference | 39.22 |
+| EUR | MMK | reference | 2362.29 |
+| GBP | MMK | reference | 2825.24 |
+| HKD | MMK | reference | 267.71 |
+| IDR | MMK | reference | 0.1163 |
+| ILS | MMK | reference | 666.62 |
+| INR | MMK | reference | 22.36 |
+| JPY | MMK | reference | 13.2945 |
+| KES | MMK | reference | 16.16 |
+| KHR | MMK | reference | 0.5154 |
+| KRW | MMK | reference | 1.5703 |
+| KWD | MMK | reference | 6818.18 |
 | LAK | MMK | reference | 0.0933 |
 | LKR | MMK | reference | 6.32 |
-| MYR | MMK | reference | 517.37 |
-| NOK | MMK | reference | 223.63 |
+| MYR | MMK | reference | 518.01 |
+| NOK | MMK | reference | 222.64 |
 | NPR | MMK | reference | 13.97 |
-| NZD | MMK | reference | 1176.21 |
-| PHP | MMK | reference | 33.17 |
+| NZD | MMK | reference | 1184.93 |
+| PHP | MMK | reference | 33.4 |
 | PKR | MMK | reference | 7.59 |
-| RSD | MMK | reference | 19.97 |
-| RUB | MMK | reference | 25.57 |
+| RSD | MMK | reference | 20.09 |
+| RUB | MMK | reference | 25.43 |
 | SAR | MMK | reference | 559.46 |
-| SEK | MMK | reference | 213.42 |
-| SGD | MMK | reference | 1640.43 |
-| THB | MMK | reference | 62.61 |
+| SEK | MMK | reference | 215.05 |
+| SGD | MMK | reference | 1644.35 |
+| THB | MMK | reference | 62.97 |
 | USD | MMK | reference | 2100 |
-| VND | MMK | reference | 0.0824 |
-| ZAR | MMK | reference | 127.41 |
+| VND | MMK | reference | 0.082 |
+| ZAR | MMK | reference | 128.39 |
 
 </details>
 
